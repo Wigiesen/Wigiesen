@@ -6,7 +6,7 @@
 
 <div align="center">
     <h3>
-        <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 💻 PHP Developer | 🛸 China, BeiJing 
+        <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 💻 Pseudo Coder | 🛸 China, BeiJing 
         <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
     </h3>
 </div>
