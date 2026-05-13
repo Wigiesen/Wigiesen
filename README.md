@@ -5,7 +5,7 @@
 
 <div align="center">
     <h3>
-        <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 💻 Pseudo Coder | 🛸 China, BeiJing 
+        <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 💻 Pseudo Coder | 🛸 BeiJing, China 
         <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
     </h3>
    <a href="mailto:wigiesen.cn@gmail.com"><img src="https://img.shields.io/badge/wigiesen.cn%40gmail.com-blue?style=flat-square&logo=gmail&logoColor=white"/></a>
